@@ -1,4 +1,5 @@
-**/node_modules
+# dependencies
+/node_modules
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -9,7 +10,6 @@ __pycache__/
 *.so
 
 # Distribution / packaging
-**/node_modules
 .Python
 build/
 develop-eggs/
