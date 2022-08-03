@@ -204,6 +204,7 @@ function AccountInformation(props) {
                 <option value="da">Dansk - Danish</option>
                 <option value="de">Deutsch - German</option>
                 <option value="en">English</option>
+                <option value="tr">Türkçe</option>
                 <option value="en-gb">English UK - British English</option>
                 <option value="es">Español - Spanish</option>
                 <option value="eu">Euskara - Basque (beta)</option>

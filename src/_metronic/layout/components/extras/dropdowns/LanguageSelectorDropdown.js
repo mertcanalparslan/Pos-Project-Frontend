@@ -9,6 +9,11 @@ import { DropdownTopbarItemToggler } from "../../../../_partials/dropdowns";
 
 const languages = [
   {
+    lang: "tr",
+    name: "Türkçe",
+    flag: toAbsoluteUrl("/media/svg/flags/218-turkey.svg"),
+  },
+  {
     lang: "en",
     name: "English",
     flag: toAbsoluteUrl("/media/svg/flags/226-united-states.svg"),
